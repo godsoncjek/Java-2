@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #0018ff;
+    margin-top: 10%;
+    color: white;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cyan;
+}
+
+.btn, .btn-warning{
+   background-color: rgb(194, 243, 228);
+   border: none;
+   border-radius: 15px;
+}
+
+.btn, .btn-warning:hover{
+    cursor: grab;
+}
